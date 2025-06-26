@@ -17,3 +17,6 @@ ID: 3a22b9ce-0502-48b7-a062-14f6c811e5a7 | Time: 2025-06-24T10:33:42.026Z | Name
   <span className=... onClick={function onClick} children=...>
                               ^^^^^^^^^^^^^^^^^^
 If you need interactivity, consider converting part of this to a Client Component.
+ID: 14ec6401-e401-41f9-b021-5668fc7fb2fc | Time: 2025-06-25T14:54:10.396Z | Name: ReferenceError | Cause: LogOut is not defined
+ID: d89a860e-d3fe-4b1f-aef3-7160692317bc | Time: 2025-06-25T15:14:58.491Z | Name: ReferenceError | Cause: useRouter is not defined
+ID: 94918164-12e9-418e-8ba0-9c4716a320a5 | Time: 2025-06-26T07:48:53.963Z | Name: ReferenceError | Cause: showPassword is not defined
